@@ -1,0 +1,26 @@
+const int ledg = 7;
+const int ledb = 8;
+const int ledr= 13;
+
+void setup() {
+  // initialize digital pin LED_BUILTIN as an output.
+  pinMode(ledg, OUTPUT);
+  pinMode(ledb, OUTPUT);
+  pinMode(ledr, OUTPUT);
+}
+
+// the loop function runs over and over again forever
+void loop() {
+  digitalWrite(ledg, HIGH);   
+  delay(500);                     
+  digitalWrite(ledb, HIGH);    
+  delay(500);   
+  digitalWrite(ledr, HIGH);    
+  delay(1000);
+  digitalWrite(ledr, LOW);   
+  delay(500);                       
+  digitalWrite(ledb, LOW);    
+  delay(500);   
+  digitalWrite(ledg, LOW);   
+  delay(500);  
+}
