@@ -7,3 +7,8 @@ Repositório para guardar os códigos das aulas do curso de extensão "IoT e edg
 <a href="2022-09-03-aula-03/2022-09-03-IoT-com-poyatos-aula-03.ino">Código para o Arduino</a>
 </br>
 <a href="2022-09-03-aula-03/2022-09-03-IoT-com-poyatos-aula-03.brd">Arquivo para o Tinkercad</a>
+
+## Projeto Final: Jogo "Desviando das paredes" no Microbit
+<img src="projeto-final/print-microbit-final.png">
+
+<a href="projeto-final/microbit-Projeto-Final-Corra-Desviando-Codigo-Final.hex">Código para o Microbit</a>
